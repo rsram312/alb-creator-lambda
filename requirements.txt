@@ -1,0 +1,5 @@
+aws-sam-cli==0.8.1
+awscli==1.16.88
+boto3==1.9.79
+botocore==1.12.79
+requests==2.20.1
